@@ -6,7 +6,7 @@ A clean and simple to-do list application that allows users to add, complete, an
 
 ### **Live Demo**
 
-You can try the app live here: [**https://debasishsasmal.github.io/to-do-list/**](https://debasishsasmal.github.io/to-do-list/)
+You can try the app live here: ([https://debasishsasmal.github.io/to-do-list/](https://debasishsasmal.github.io/To-Do-List/))
 
 ---
 
